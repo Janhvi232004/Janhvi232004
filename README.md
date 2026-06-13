@@ -36,31 +36,13 @@
 
 ---
 
-## `$ whoami`
+## About
 
-```typescript
-const janhvi: Engineer = {
-  role:       "AI & Data Science Engineer | LLM Builder | Healthcare AI Researcher",
-  education:  "B.Tech — Artificial Intelligence & Data Science | AISSMS IOIT, Pune (2023–2027)",
-  cgpa:       "8.09 / 10",
-  location:   "Pune, Maharashtra, India",
-  languages:  ["English", "Hindi", "Marathi", "German (Basic)"],
-  focus:      ["LLM Engineering", "Multimodal AI", "RAG Systems", "NLP", "Healthcare AI"],
-  philosophy: "Build intelligent systems that are not just accurate — but reliable, interpretable, and impactful.",
-};
-```
+I am a third-year B.Tech student in **Artificial Intelligence & Data Science** at AISSMS Institute of Information Technology, Pune. I build practical AI systems with a focus on multimodal healthcare, NLP, and retrieval-augmented applications.
 
-<br/>
+I bring hands-on experience across data engineering, model development, evaluation, and AI delivery. I also served as **Vice President of Human Resources** for CyberShield, where I led member engagement, workshop planning, and operations for the student cybersecurity community.
 
-I am a third-year B.Tech student in **Artificial Intelligence & Data Science** at AISSMS Institute of Information Technology, Pune, with a strong academic record and a clear engineering focus. My work sits at the intersection of **machine learning research and production system design** — from multimodal healthcare AI and NLP pipelines to RAG-powered knowledge systems and data-driven analytics.
-
-I have hands-on experience across the full AI development lifecycle: data preprocessing, model training and evaluation, LLM integration, and dashboard delivery. I bring both technical depth and cross-functional awareness, having served as **Vice President of Human Resources** for CyberShield, the institute's cybersecurity club — leading member operations, workshops, and strategic planning.
-
-My goal is to contribute to research-oriented and engineering-intensive AI environments where I can build systems that matter — particularly in **healthcare AI, intelligent automation, and applied NLP**.
-
-<br/>
-
-> **Open To:** AI/ML Engineering Internships · Research Collaborations · LLM & NLP Projects · Full Stack AI Development · Open Source Contributions
+> **Open to:** AI/ML internships · research collaborations · LLM/NLP projects · full-stack AI development · open-source contributions
 
 ---
 
@@ -318,10 +300,6 @@ Appointed as Vice President of Human Resources for CyberShield, the official cyb
 [![LeetCode](https://img.shields.io/badge/LeetCode-Janhvi__232004-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Janhvi_232004/)
 &nbsp;&nbsp;
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/janhvi-indapurkar)
-&nbsp;&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/janhvi-indapurkar)
-&nbsp;&nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/janhvi_indapurkar)
 
 </div>
 
@@ -421,6 +399,10 @@ current_focus:
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Janhvi232004-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Janhvi232004)
+&nbsp;
+[![GitHub Followers](https://img.shields.io/github/followers/Janhvi232004?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Janhvi232004)
+&nbsp;
+[![GitHub Stars](https://img.shields.io/github/stars/Janhvi232004?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Janhvi232004)
 
 <br/>
 
